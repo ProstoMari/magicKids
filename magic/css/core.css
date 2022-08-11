@@ -1,0 +1,12 @@
+.flex-box {
+    display: flex;
+}
+.flex-wrap {
+    flex-wrap: wrap;
+}
+.flex-vertical-center {
+    align-items: center;
+}
+.to-right {
+    margin: 0 0 0 auto;
+}
